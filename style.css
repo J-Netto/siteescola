@@ -38,10 +38,18 @@ align-items: center;
 padding: 24px 0;}
 
 .escola-conteudo
-{width: 65%;}
+{width: 65%;
+}
 
 .escola-titulo 
 {padding: 50px 30px;}
 .aluno-um{
     width: 22% ;
 }
+
+.estudante-icone { width: 3%
+}
+
+.estudante-div {text-align: center;}
+
+.aluno-dois { width: 22%;}
