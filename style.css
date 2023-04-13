@@ -43,13 +43,24 @@ padding: 24px 0;}
 
 .escola-titulo 
 {padding: 50px 30px;}
+
 .aluno-um{
-    width: 22% ;
+    width: 45% ;
+    height: 50%;
+    
 }
 
-.estudante-icone { width: 3%
+.estudante-icone { width: 10%;
+    height: 10%;
+
+    
 }
 
 .estudante-div {text-align: center;}
 
-.aluno-dois { width: 22%;}
+body{font-family: Arial, Helvetica, sans-serif;}
+
+.estudantes-todos {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+ }
